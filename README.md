@@ -1,6 +1,7 @@
 # AD5292 Arduino/ESP32 Library
 
-This is an Arduino library for interfacing with the AD5292 digital potentiometer using the SPI communication protocol. I've mainly used this with an ESP32, but the initial testing was on an Arduino MEGA so should work on anything that complies with the Arduino API. It should be trivial to adapt to other Analog Devices digital potentiometers. PR/MRs are welcome.
+This is an Arduino library for interfacing with the [AD5292 digital potentiometer](https://www.analog.com/media/en/technical-documentation/data-sheets/ad5291_5292.pdf) using the SPI communication protocol. I've mainly used this with an ESP32, but the initial testing was on an Arduino MEGA so should work on anything that complies with the Arduino API. It should be trivial to adapt to other Analog Devices digital potentiometers. PR/MRs are welcome.
+- Datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/ad5291_5292.pdf
 
 ## Features
 

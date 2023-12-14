@@ -1,0 +1,23 @@
+{
+    "name": "AD5292",
+    "keywords": "SPI,digital,potentiometer",
+    "description": "Library to control digital potentiometer AD5292 and compatibles.",
+    "authors":
+    [
+      {
+        "name": "Markus Kreitzer",
+        "email": "markus@nostoslabs.com",
+        "maintainer": true
+      }
+    ],
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/nostoslabs/AD5292"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*",
+    "headers": "AD5292.h"
+  }

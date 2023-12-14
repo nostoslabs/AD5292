@@ -1,6 +1,4 @@
-#include <SPI.h>
 #include "AD5292.h"
-
 #define CS_PIN 5  // Chip Select pin for AD5292
 
 
