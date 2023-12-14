@@ -1,0 +1,9 @@
+#######################################
+# Syntax Coloring Map For AD5292
+#######################################
+
+AD5292                 KEYWORD1
+begin                  KEYWORD2
+setWiperPosition       KEYWORD2
+sendCommand            KEYWORD2
+setSpiFrequency        KEYWORD2
